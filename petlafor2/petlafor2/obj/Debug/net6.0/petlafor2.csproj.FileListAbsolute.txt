@@ -1,0 +1,15 @@
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\obj\Debug\net6.0\petlafor2.csproj.AssemblyReference.cache
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\obj\Debug\net6.0\petlafor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\obj\Debug\net6.0\petlafor2.AssemblyInfoInputs.cache
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\obj\Debug\net6.0\petlafor2.AssemblyInfo.cs
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\obj\Debug\net6.0\petlafor2.csproj.CoreCompileInputs.cache
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\bin\Debug\net6.0\petlafor2.exe
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\bin\Debug\net6.0\petlafor2.deps.json
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\bin\Debug\net6.0\petlafor2.runtimeconfig.json
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\bin\Debug\net6.0\petlafor2.dll
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\bin\Debug\net6.0\petlafor2.pdb
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\obj\Debug\net6.0\petlafor2.dll
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\obj\Debug\net6.0\refint\petlafor2.dll
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\obj\Debug\net6.0\petlafor2.pdb
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\obj\Debug\net6.0\petlafor2.genruntimeconfig.cache
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\petlafor2\petlafor2\obj\Debug\net6.0\ref\petlafor2.dll
