@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Text;
 namespace egzamin.Tasks
 {
@@ -39,6 +40,21 @@ namespace egzamin.Tasks
         {
             return $"{{Name: {Name}; Priority: {Priority}}}";
             
+        }
+        //zadanie 3
+        public override bool Equals(object obj)
+        {
+            //mozna skopiowac z dokumentacji https://docs.microsoft.com/en-us/dotnet/api/system.object.equals?view=net-6.0
+            if ((obj == null) || !this.GetType().Equals(obj.GetType()))
+            {
+                return false;
+            }
+            else
+            {
+                //tego juz nie kopiujemy 
+                PriorityTask priorityTask = obj as PriorityTask;
+                return (this.Name == priorityTask.Name && this.Priority == priorityTask.Priority);
+            }
         }
     }
 }

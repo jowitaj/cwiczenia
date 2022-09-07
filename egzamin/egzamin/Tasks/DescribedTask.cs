@@ -35,5 +35,20 @@ namespace egzamin.Tasks
         {
             return $"{{Name: {Name}; Priority: {Priority}; Description: {Description}}}";
         }
+        //zadanie 3
+        public override bool Equals(object obj)
+        {
+            //mozna skopiowac z dokumentacji https://docs.microsoft.com/en-us/dotnet/api/system.object.equals?view=net-6.0
+            if ((obj == null) || !this.GetType().Equals(obj.GetType()))
+            {
+                return false;
+            }
+            else
+            {
+                //tego juz nie kopiujemy 
+                DescribedTask describedTask = obj as DescribedTask;
+                return (this.Name == describedTask.Name && this.Priority == describedTask.Priority && this.Description == describedTask.Description);
+            }
+        }
     }
 }
