@@ -33,8 +33,7 @@ namespace egzamin.Tasks
 
         public override string ToString()
         {
-            string output = "";
-            return output;
+            return $"{{Name: {Name}; Priority: {Priority}; Description: {Description}}}";
         }
     }
 }

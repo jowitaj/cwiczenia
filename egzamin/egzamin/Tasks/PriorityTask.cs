@@ -37,8 +37,7 @@ namespace egzamin.Tasks
         //4 linijka
         public override string ToString()
         {
-            string output = "";
-            return output;
+            return $"{{Name: {Name}; Priority: {Priority}}}";
             
         }
     }

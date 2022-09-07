@@ -1,0 +1,14 @@
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\bin\Debug\netcoreapp3.1\egzamin.exe
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\bin\Debug\netcoreapp3.1\egzamin.deps.json
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\bin\Debug\netcoreapp3.1\egzamin.runtimeconfig.json
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\bin\Debug\netcoreapp3.1\egzamin.runtimeconfig.dev.json
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\bin\Debug\netcoreapp3.1\egzamin.dll
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\bin\Debug\netcoreapp3.1\egzamin.pdb
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\obj\Debug\netcoreapp3.1\egzamin.csproj.AssemblyReference.cache
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\obj\Debug\netcoreapp3.1\egzamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\obj\Debug\netcoreapp3.1\egzamin.AssemblyInfoInputs.cache
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\obj\Debug\netcoreapp3.1\egzamin.AssemblyInfo.cs
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\obj\Debug\netcoreapp3.1\egzamin.csproj.CoreCompileInputs.cache
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\obj\Debug\netcoreapp3.1\egzamin.dll
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\obj\Debug\netcoreapp3.1\egzamin.pdb
+C:\Users\Jowitka\source\repos\jowitaj\cwiczenia\egzamin\egzamin\obj\Debug\netcoreapp3.1\egzamin.genruntimeconfig.cache
