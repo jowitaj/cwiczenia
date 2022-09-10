@@ -1,0 +1,17 @@
+ITask - interfejs, NIE klasa
+Zmiana internatl na public 
+Zaczynamy od ITask
+Implementacja  :ITask
+Alt+enter na błędzie, dodaje linijkę
+Prob Tab Tab dodaje linijkę
+Public string Name {get; init;}
+W program.cs dodać odwołanie do programu 
+W folderach ITask i Task Manager, dodać odwołanie do folderu .Tasks
+Odwołanie -> nazwaprojektu.nazwafolderu
+Przy to string dodać ovveride
+Base - odwołanie do klasy bazowej z której dziedziczymy 
+Po DesxibedTask i PriorityTask idziemy do Task Manager
+DODAWANIE TESTU:
+solucja > test > dodaj test > odwołanie do projektu > zaznaczamy
+kopiujemy tekst od Góreckiego 
+nazwa > prawy > uruchom test 
